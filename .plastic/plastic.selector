@@ -1,0 +1,4 @@
+repository "游戏框架2022@ssl://wechat_os_qy00xt-fibmbonbbglnhz7ibc@sh03-plasticscm.unity.cn:8787"
+  path "/"
+    br "/main"
+    co "/main"
